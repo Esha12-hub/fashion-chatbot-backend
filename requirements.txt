@@ -1,0 +1,9 @@
+flask
+torch
+pillow
+pandas
+diffusers
+transformers
+sentence-transformers
+datasets
+accelerate
